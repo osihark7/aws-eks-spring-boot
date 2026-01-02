@@ -1,4 +1,4 @@
-package com.aws_eks_spring_boot.aws_eks_spring_boot;
+package com.aws_eks_spring_boot;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
