@@ -29,9 +29,6 @@ public class UserController {
 		for(Map.Entry h:hmap.entrySet()) {
 			System.out.println(h.getKey() + " : "+ h.getValue());
 		}
-		
-		
-		
 		return hmap;
 		
 	}
